@@ -1,0 +1,35 @@
+# Letter to [Nom de votre amie]
+
+# Start by printing a greeting message
+print("Cher(e) [Nom de votre amie],")
+print("")
+
+# Express your appreciation for your friend
+print("Je voulais prendre un moment pour te dire à quel point tu es important(e) pour moi.")
+print("Depuis que nous nous sommes rencontrés, tu as apporté tellement de bonheur et de joie dans ma vie.")
+print("Tu es un(e) véritable ami(e) et je suis reconnaissant(e) de pouvoir compter sur toi.")
+print("")
+
+# Remember special moments you've shared
+print("Je me souviens des moments que nous avons passés ensemble,")
+print("des moments de rire, des moments de défis, des moments de soutien et de réconfort.")
+print("Tous ces moments ont contribué à renforcer notre amitié et à faire de toi une personne très spéciale à mes yeux.")
+print("")
+
+# Express your pride and support
+print("Je voulais aussi te dire à quel point je suis fier(e) de toi et de tout ce que tu as accompli.")
+print("Ton courage, ta détermination et ta gentillesse sont des qualités qui te rendent vraiment unique.")
+print("Je suis honoré(e) de faire partie de ta vie et je suis excité(e) de voir ce que l'avenir te réserve.")
+print("")
+
+# Offer your continued support
+print("Je sais que tu vas bientôt partir pour de nouvelles aventures et je veux que tu saches que je serai toujours là pour toi.")
+print("Peu importe où tu vas, je serai toujours ton ami(e) fidèle et je ferai tout ce que je peux pour te soutenir.")
+print("")
+
+# End with a closing message
+print("Prends soin de toi et n'oublie jamais à quel point tu es aimé(e) et apprécié(e).")
+print("")
+print("Sincèrement,")
+print("")
+print("[Votre nom]")
